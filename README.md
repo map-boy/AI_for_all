@@ -167,6 +167,6 @@ MIT License — free to use, modify, and distribute.
 
 ## 👨‍💻 Author
 
-Built with ❤️ for Rwanda by **map-boy**
+Built with ❤️ for Rwanda by **WANDAA**
 
 > *"Ubwenge" means "Intelligence/Wisdom" in Kinyarwanda*
